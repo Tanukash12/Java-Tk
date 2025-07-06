@@ -1,9 +1,9 @@
-class Ceilingright{
-    public void static main(String[] args){
+// class Ceilingright{
+//     public void static main(String[] args){
 
-    }
+//     }
 
-    void printCeilingRight(int[] arr){
+//     void printCeilingRight(int[] arr){
         
-    }
-}
+//     }
+// }

@@ -15,6 +15,6 @@ class GFG {
         System.out.println(c);
         System.out.println(d);
         System.out.println(s);
-        
+        sc.close();
     }
 }
